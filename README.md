@@ -74,6 +74,6 @@ python transcribe.py meeting_audio.m4a
 
 ## Author
 
-* \[Nikunj Parmar] - \[https://github.com/NikunjCitrusbug]
+* [Nikunj Parmar](https://github.com/NikunjCitrusbug)
 
 
