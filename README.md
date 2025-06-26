@@ -52,13 +52,13 @@ DEEPGRAM_API_KEY = "YOUR_API_KEY"
 ## Usage
 
 ```bash
-python transcribe.py <audio_file_path.m4a>
+python app.py <audio_file_path.m4a>
 ```
 
 ### Example
 
 ```bash
-python transcribe.py meeting_audio.m4a
+python app.py meeting_audio.m4a
 ```
 
 ### Output
