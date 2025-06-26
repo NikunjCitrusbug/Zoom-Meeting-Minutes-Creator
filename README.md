@@ -1,4 +1,4 @@
-# Zoom Meeting Minutes Creator
+# Zoom Minutes of Meeting Creator
 
 This script allows you to automatically transcribe Zoom meeting audio files (in `.m4a` format) using the Deepgram Speech-to-Text API. It also converts `.m4a` files to `.mp3` format before transcription.
 
